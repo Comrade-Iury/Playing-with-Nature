@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Playing with Nature\bin\Debug\net6.0\Playing with Nature.exe
+C:\Users\HP\source\repos\Playing with Nature\bin\Debug\net6.0\Playing with Nature.deps.json
+C:\Users\HP\source\repos\Playing with Nature\bin\Debug\net6.0\Playing with Nature.runtimeconfig.json
+C:\Users\HP\source\repos\Playing with Nature\bin\Debug\net6.0\Playing with Nature.dll
+C:\Users\HP\source\repos\Playing with Nature\bin\Debug\net6.0\Playing with Nature.pdb
+C:\Users\HP\source\repos\Playing with Nature\obj\Debug\net6.0\Playing with Nature.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Playing with Nature\obj\Debug\net6.0\Playing with Nature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Playing with Nature\obj\Debug\net6.0\Playing with Nature.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Playing with Nature\obj\Debug\net6.0\Playing with Nature.AssemblyInfo.cs
+C:\Users\HP\source\repos\Playing with Nature\obj\Debug\net6.0\Playing with Nature.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Playing with Nature\obj\Debug\net6.0\Playing with Nature.dll
+C:\Users\HP\source\repos\Playing with Nature\obj\Debug\net6.0\refint\Playing with Nature.dll
+C:\Users\HP\source\repos\Playing with Nature\obj\Debug\net6.0\Playing with Nature.pdb
+C:\Users\HP\source\repos\Playing with Nature\obj\Debug\net6.0\Playing with Nature.genruntimeconfig.cache
+C:\Users\HP\source\repos\Playing with Nature\obj\Debug\net6.0\ref\Playing with Nature.dll
